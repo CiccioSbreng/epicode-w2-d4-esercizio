@@ -10,6 +10,7 @@
     flex-direction: column;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
+    
 
 
 
@@ -62,7 +63,9 @@
 
 }
 
-.date, .date2, .date3{
+.date,
+.date2,
+.date3 {
     color: rgb(93, 92, 92);
 
 
@@ -73,6 +76,7 @@
     flex-wrap: wrap;
     width: 60%;
     border-right: solid rgb(134, 127, 127) 1px;
+    margin-left: 3%;
 
 
 }
@@ -81,6 +85,7 @@
     display: flex;
     width: 100%;
     justify-content: space-between;
+    
 
 }
 
@@ -95,7 +100,7 @@
     display: flex;
     width: 100%;
     justify-content: space-between;
-   
+
 
 }
 
@@ -106,14 +111,15 @@
 
     height: 115px;
     width: 200px;
+    margin-top: 30%;
 }
 
 
-#plus{
-font-size: 22px;
-color: grey;
-margin-top: 12%;
-margin-left: 4px;
+#plus {
+    font-size: 22px;
+    color: grey;
+    margin-top: 12%;
+    margin-left: 4px;
 
 
 
@@ -128,7 +134,7 @@ margin-left: 4px;
 
 }
 
-#medium-log{
+#medium-log {
 
     width: 40x;
     height: 50px;
@@ -156,7 +162,7 @@ margin-left: 4px;
 
 }
 
-.con-twi{
+.con-twi {
 
     margin-top: 7%;
 }
@@ -185,7 +191,7 @@ margin-left: 4px;
 #log-social {
     display: flex;
     flex-direction: column;
-justify-content: space-around;
+    justify-content: space-around;
     height: 23%;
     border-bottom: solid grey 1px;
     align-items: center;
@@ -206,8 +212,8 @@ justify-content: space-around;
     margin: 10px;
     border-radius: 15px;
     font-size: 20px;
-   background-color: rgb(190, 188, 188);
-   border: none;
+    background-color: rgb(190, 188, 188);
+    border: none;
 
 
 }
@@ -222,9 +228,9 @@ justify-content: space-around;
 
 
 
-#persona2{
-width: 25px;
-height: 80%;
+#persona2 {
+    width: 25px;
+    height: 80%;
 }
 
 
@@ -268,25 +274,26 @@ height: 80%;
 
 }
 
-#bu2 { 
+#bu2 {
 
     display: flex;
-        width: 30%;
-        justify-content: space-around;
-        margin-top: 30px;
-        height: 77%;
-    }
+    width: 28%;
+    justify-content: space-around;
+    margin-top: 29px;
+    height: 75%;
+}
 
 
 
-.but2 { 
+.but2 {
     display: flex;
     height: 36%;
-    border-radius: 32px;}
+    border-radius: 32px;
+}
 
 
 
-.Who{
-margin-left: 35px;
+.Who {
+    margin-left: 35px;
 
 }
